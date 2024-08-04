@@ -1,0 +1,17 @@
+Curso UX Design: Entenda a área da User Experience
+
+1. A Experiência do Usuário
+
+1.1. Apresentação
+	-> O curso mostra o que é a UX;
+	-> Do que se trata a experiência;
+	-> Quem é a pessoa usuária;
+	-> O guarda-chuva da UX:
+		- Todas as divisões;
+		- Todas as especialidades.
+	-> Os pilares da User Experience;
+	-> A relação da UX com o Mercado;
+	-> No que uma UX generalista ajuda:
+		- Onde atua e as principais funções.
+	-> Uso de ferramentas de investigação.
+	
