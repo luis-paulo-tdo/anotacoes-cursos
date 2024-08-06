@@ -1,0 +1,118 @@
+Seção #1: Introdução
+
+1.1. Como ChatGPT pode ajudar os desenvolvedores
+	-> Aprendizado de programação:
+		- Pode ser usado como tutor interativo;
+		- Pode obter dele respostas de determinadas perguntas;
+		- Pode auxiliar na resolução de problemas e desafios.
+	-> Aumento da produtividade e eficiência:
+		- Pode gerar trechos de código e acelerar o desenvolvimento;
+		- Pode fornecer otimizações de desempenho;
+		- Pode auxiliar com a integração de APIs, bibliotecas e frameworks.
+	-> Facilicação da comunicação técnica e da documentação de projetos:
+		- Pode montar documentações do código;
+		- Pode traduzir termos térnicos e conceitos complexos;
+		- Pode gerar comentários de código.
+	-> Outras aplicações e benefícios:
+		- Revisão e refatoração de código;
+		- Resolução de bugs;
+		- Integração com IDEs;
+		- Integração com o Git.
+		
+1.2. Limitações do ChatGPT
+	-> Conhecimento e atualização do modelo:
+		- Tem um corte até setembro de 2021;
+		- Novas tecnologias, bibliotecas e práticas podem não estar incluídas;
+		- Pode gerar informações não precisas, pessoas, lugares e fatos.
+	-> Risco de viés e desinformação:
+		- O aprendizado é com base em textos disponíveis na Internet;
+		- Pode gerar respostas tendenciosas e incorretas;
+		- Os desenvolvedores devem ser críticos e verificar se o ChatGPT está correto.
+		
+-----
+
+Seção #2: Aprendendo com o ChatGPT
+
+2.1. Linguagens Suportadas pelo ChatGPT
+	-> Ele é capaz de entender e gerar o código em várias linguagens de programação;
+	-> Em linguagens menos populares, você deve se atentar aos seguintes pontos:
+		- Menor precisão;
+		- Menor conhecimento em bibliotecas e frameworks;
+		- Menor capacidade de fornecer melhores práticas;
+		- Inconsistências na qualidade das respostas.
+		
+2.2. Aprendendo Conceitos
+	-> O ChatGPT explica conceitos básicos das tecnologias;
+	-> Um Design Pattern pode ser explicado de forma detalhada;
+	-> Prompts:
+		- Ao pedir uma explicação, enfatize que ela deve ser feita de forma simples;
+		- Peça exemplos de código com explicações;
+		- Ao perguntar um conceito, pergunte também para o que ele serve;
+		- Às vezes o ChatGPT pode cortar as respostas, você deve salientar o corte e pedir a continuação da explicação.
+		
+2.3. Estruturas de Programação
+	-> É possível aprender estruturas de código em diferentes linguagens;
+	-> É possível pedir exemplos semelhantes para linguagens diferentes;
+	-> Prompts:
+		- Na hora de pedir, forneça exemplos;
+		- Pergunte o nome dos termos técnicos para o que as estruturas e funções fazem;
+		- Saber os termos técnicos te permite fazer buscas melhores;
+		- Você pode pedir diferentes formas de realizar uma tarefa.
+		
+2.4. Orientação a Objetos
+	-> É possível pedir explicações de conceitos e recursos;
+	-> É possível gerar códigos e classes na linguagem escolhida:
+	-> Prompts:
+		- Pode-se pedir exemplos em linguagens onde orientação a objeto é recente ou opcional;
+		-> Pode-se pedir a aplicabilidade dos conceitos de orientação a objetos em outras linguagens.
+		
+2.5. Design Patterns
+	-> É possível entender o conceito e a aplicação de cada pattern;
+	-> Posteriormente, é possível pedir uma aplicação de código em determinada linguagem:
+	-> Prompts:
+		- Peça uma lista dos padrões mais utilizados;
+		- Linguagens específicas possuem seus próprios padrões;
+		- Você pode pedir para o ChatGPT comentar cada trecho de código;
+		- Você pode pedir a diferença de conceitos diferentes (Estrutura de Dados e Design Patterns).
+		
+2.6. Estrutura de Dados e Algoritmos
+	-> São recursos que todo programador deve conhecer;
+	-> Podemos aprendê-los e visualizar exemplos de código com o ChatGPT;
+	-> Prompts:
+		- É possível pedir explicações simples;
+		- Exemplos de código nas diversas linguagens também podem ser pedidos;
+
+2.7. Gerando Exercícios
+	-> ChatGPT pode ser usado para criar exercícios práticos;
+	-> É possível escolher a complexidade e o assunto abordado;
+	-> Junto com o exercício, é possível pedir a solução.
+
+2.8. Explicando Códigos
+	-> Códigos legados ou que sejam difíceis de entender podem ser explicados;
+	-> O código pode ser interpretado e explicado pelo ChatGPT;
+	-> Além disso, ele consegue simplificar o código.
+	
+-----
+
+Seção #3: Chat GPT para Front-end
+
+3.1. Gerando HTML
+	-> Pode gerar páginas simples ou componentes específicos;
+	-> É possível pedir para que formulários sejam criados;
+	-> É possível pedir para gerar links de CSS e tag de responsividade;
+	-> É possível gerar cards HTML para exibir detalhes de um item;
+	-> É possível adicionar botões de detalhes e de criar novos itens;
+
+3.2. Adicionando Semântica ao HTML
+	-> Um código somente com divs pode ser convertido para HTML semântico;
+	-> Códigos novos e semânticos podem ser gerados;
+	-> De acordo com o tipo de página, ele pode gerar um HTML semântico adequado;
+	-> Você pode pedir para que a semântica de um código já gerado seja melhorada;
+	-> Você pode questioná-lo sobre quais mudanças ele fez no código.
+	
+3.3. Depuração de HTML
+	-> O GPT pode evidenciar erros de HTML;
+		- Tags sem fechamento, atributos errados, etc.
+	-> Copiando o código para o ChatGPT, ele pode resolvê-lo;
+	-> Ao corrigir os erros, ele informa o que está errado;
+	-> Adicionalmente, ele adiciona melhorias ao código.
